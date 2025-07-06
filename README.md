@@ -34,7 +34,6 @@ A smart resume analyzer that matches a candidate’s resume with a job descripti
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🖥️ Home Interface
 ![Home](output_pics/1.png)

@@ -1,0 +1,17 @@
+Job Summary:
+We are seeking a talented and analytical Data Scientist to join our dynamic team. In this role, you will leverage data-driven insights to support strategic decision-making, develop predictive models, and enhance our products and services. The ideal candidate is skilled in data wrangling, machine learning, and visualization, with a strong understanding of both business and technical aspects.
+
+Key Responsibilities:
+Collect, clean, and preprocess large datasets from multiple sources.
+
+Develop and deploy machine learning models and statistical analyses to solve business problems.
+
+Communicate findings through visualizations, dashboards, and presentations.
+
+Collaborate with cross-functional teams including engineering, product, and marketing.
+
+Design A/B tests and evaluate outcomes to guide product or policy changes.
+
+Use tools like Python, R, SQL, and cloud platforms (AWS, GCP, Azure) for analysis and modeling.
+
+Stay updated with the latest data science trends, tools, and best practices.

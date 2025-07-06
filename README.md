@@ -33,6 +33,18 @@ A smart resume analyzer that matches a candidate’s resume with a job descripti
 
 ---
 
+## 📸 Screenshots
+## 📸 Screenshots
+
+### 🖥️ Home Interface
+![Home](output_pics/1.png)
+
+### 📄 Resume Upload
+![Upload](output_pics/2.png)
+
+### 📊 Results Page
+![Results](output_pics/3.png)
+
 ---
 
 ## 🚀 How to Run
